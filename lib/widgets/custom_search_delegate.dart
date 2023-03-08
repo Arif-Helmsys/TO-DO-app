@@ -1,4 +1,4 @@
-// import 'package:easy_localization/src/public_ext.dart';
+
 import 'package:flutter/material.dart';
 import 'package:to_do_app/data/local_storage.dart';
 import 'package:to_do_app/main.dart';
